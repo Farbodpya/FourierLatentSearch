@@ -47,3 +47,6 @@ Each function is evaluated in the high-dimensional space (default: 5000D), with 
    ```bash
    git clone https://github.com/Farbodpya/FourierLatentSearch.git
    cd FourierLatentSearch
+
+   # Run the optimizer
+   python main.py
