@@ -1,7 +1,9 @@
 # FourierLatentSearch
 
 FourierLatentSearch is an optimization framework that applies a Genetic Algorithm (GA) in a **latent space** transformed via a **Fourier-based projection**. This technique helps reduce the dimensionality of high-dimensional optimization problems while preserving useful structure for search.
+
 Zenodo DOI: (https://doi.org/10.5281/zenodo.15342205)
+
 ---
 
 ## 🔬 Core Idea
